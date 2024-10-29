@@ -68,7 +68,7 @@ export default function HomePage() {
             </div>
 
             {/* Getting Started Section */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pb-48">
                 {[
                     {
                         label: 'How It Works',
