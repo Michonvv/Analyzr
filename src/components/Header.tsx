@@ -9,7 +9,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <Code2 className="h-8 w-8" />
-            <span className="text-2xl font-bold">CodeLens</span>
+            <span className="text-2xl font-bold">Analyzr</span>
           </Link>
           <div className="flex items-center space-x-1">
             <Sparkles className="h-5 w-5" />

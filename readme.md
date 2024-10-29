@@ -1,7 +1,3 @@
-Here's an updated version:
-
----
-
 <div align="center">
 
 # ⚡ Analyzr
@@ -11,10 +7,9 @@ Here's an updated version:
 
 🔍 *Your AI-powered code companion for accurate, insightful code analysis.*
 
-[Visit Analyzr](https://yourwebsite.com) | [Report Bug](https://github.com/yourusername/analyzr/issues) · [Request Feature](https://github.com/yourusername/analyzr/issues)
+[Visit Analyzr](https://yourwebsite.com) | [Report Bug](https://github.com/Michonvv/Analyzr/issues) · [Request Feature](https://github.com/Michonvv/Analyzr)
 
-![Analyzr Screenshot](screenshot.png)
-
+<img src="screenshot.png" alt="Analyzr Screenshot" width="800"/>
 </div>
 
 ---
