@@ -7,7 +7,7 @@
 
 🔍 *Your AI-powered code companion for accurate, insightful code analysis.*
 
-[Visit Analyzr](https://yourwebsite.com) | [Report Bug](https://github.com/Michonvv/Analyzr/issues) · [Request Feature](https://github.com/Michonvv/Analyzr)
+[Visit Analyzr](https://analyzr.vercel.app/) | [Report Bug](https://github.com/Michonvv/Analyzr/issues) · [Request Feature](https://github.com/Michonvv/Analyzr)
 
 <img src="screenshot.png" alt="Analyzr Screenshot" width="800"/>
 </div>
