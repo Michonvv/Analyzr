@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { Code2 } from 'lucide-react';
 
 const Footer = () => {
     const appName = "Analyzr"; // Set your app name directly here
@@ -15,12 +16,8 @@ const Footer = () => {
                             aria-current="page"
                             className="flex gap-2 justify-center md:justify-start items-center"
                         >
-                            <img
-                                src="../logo.svg"
-                                alt="anaylzer"
-                                className="w-6 h-6"
-                                loading="lazy"
-                            />
+                            <Code2 color="#4287f5" className="h-6 w-6" />
+
                             <strong className="font-extrabold tracking-tight text-base md:text-lg">
                                 {appName}
                             </strong>
