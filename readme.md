@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/analyzr.git
+git clone https://github.com/Michonvv/Analyzr.git
 
 # Navigate to the project
 cd analyzr

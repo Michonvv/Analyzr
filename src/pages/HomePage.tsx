@@ -7,6 +7,12 @@ import { Card, CardContent } from '@/components/ui/card';
 export default function HomePage() {
     return (
         <div className="space-y-12">
+            {/* Alpha Version Banner */}
+            <div className="bg-yellow-100 border border-yellow-400 text-yellow-700 text-center p-4 rounded-lg">
+                <h2 className="font-semibold">🚀 Alpha Version 0.1</h2>
+                <p>Welcome to Analyzr! Your feedback is crucial as we improve our features.</p>
+            </div>
+
             {/* Hero Section */}
             <div className="text-center space-y-6">
                 <h1 className="text-4xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">
@@ -22,9 +28,11 @@ export default function HomePage() {
                             <Zap className="ml-2 h-4 w-4" />
                         </Button>
                     </Link>
-                    <Button variant="outline" className="border-indigo-600 text-indigo-600 hover:bg-indigo-50">
-                        View Documentation
-                    </Button>
+                    <a href='https://github.com/Michonvv/Analyzr' target='_blank' rel="noopener noreferrer">
+                        <Button variant="outline" className="border-indigo-600 text-indigo-600 hover:bg-indigo-50">
+                            View Documentation
+                        </Button>
+                    </a>
                 </div>
             </div>
 
