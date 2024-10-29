@@ -17,7 +17,7 @@ const Footer = () => {
                         >
                             <img
                                 src="../logo.svg"
-                                alt={`${appName} logo`}
+                                alt="anaylzer"
                                 className="w-6 h-6"
                                 loading="lazy"
                             />
